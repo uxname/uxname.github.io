@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+![](media/uxname.svg)
 
-You can use the [editor on GitHub](https://github.com/uxname/uxname.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Social
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Telegram: [@uxname](https://t.me/uxname)
+- Mail: [uxname@gmail.com](mailto://uxname@gmail.com)
+- Github: [@uxname](https://github.com/uxname)
 
-### Markdown
+# Open-source
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## LiteEnd
 
-```markdown
-Syntax highlighted code block
+https://github.com/uxname/liteend
+![](media/liteend.svg)
 
-# Header 1
-## Header 2
-### Header 3
+Simple lightweight GraphQL server on Node.JS which can be used as a basis backend for a new projects. Prisma.io and
+SQLite (postgres and others DBMS available too) uses as base for data storage.
 
-- Bulleted
-- List
+## LiteFront
 
-1. Numbered
-2. List
+https://github.com/uxname/litefront
+![](media/litefront.svg)
 
-**Bold** and _Italic_ and `Code` text
+Next.js + GraphQL + Typescript frontend boilerplate.
 
-[Link](url) and ![Image](src)
-```
+## Autodeploy server
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://github.com/uxname/autodeploy-server
+![](media/autodeploy-server.svg)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uxname/uxname.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Simple server for autodeploy apps written on Go
