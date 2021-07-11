@@ -25,7 +25,7 @@ Next.js + GraphQL + Typescript frontend boilerplate.
 
 ![](media/autodeploy-server.svg)
 
-Simple server for autodeploy apps written on Go
+Simple server for autodeploy apps, written on Go
 
 ## [LikeLog](https://github.com/uxname/likelog)
 
